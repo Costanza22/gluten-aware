@@ -124,7 +124,6 @@ npm install
 npm run dev
 Frontend
 bash
-Copiar código
 cd frontend
 npm install
 npm start
@@ -132,4 +131,4 @@ npm start
 Este projeto é acompanhado por um artigo técnico no Medium:
 
 IA Aplicada à Saúde: Do Diagnóstico Clínico à Segurança Alimentar na Doença Celíaca
-🔗 (link será adicionado)
+🔗 (https://medium.com/@costanza22/ia-aplicada-%C3%A0-sa%C3%BAde-otimizando-o-diagn%C3%B3stico-da-doen%C3%A7a-cel%C3%ADaca-e-a-seguran%C3%A7a-alimentar-2c454f3a5427?postPublishedType=repub)
